@@ -6,7 +6,7 @@
 Summary:	Parallel Each and other parallel things
 Name:		ruby-%{pkgname}
 Version:	0.5.1
-Release:	1
+Release:	2
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
